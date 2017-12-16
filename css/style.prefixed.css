@@ -1,1 +1,13 @@
+/*basic class*/
+body {
+  margin: 0; }
 
+.container {
+  max-width: 1200px;
+  width: 100%;
+  margin: 0 auto; }
+
+.hero {
+  background-image: url('images/hero-background.jpg'); }
+
+/*# sourceMappingURL=style.prefixed.css.map */
